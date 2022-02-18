@@ -1,0 +1,10 @@
+D:\VS TISBI\DAL3\bin\Debug\netstandard2.0\DAL3.deps.json
+D:\VS TISBI\DAL3\bin\Debug\netstandard2.0\DAL3.dll
+D:\VS TISBI\DAL3\bin\Debug\netstandard2.0\DAL3.pdb
+D:\VS TISBI\DAL3\obj\Debug\netstandard2.0\DAL3.csproj.AssemblyReference.cache
+D:\VS TISBI\DAL3\obj\Debug\netstandard2.0\DAL3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS TISBI\DAL3\obj\Debug\netstandard2.0\DAL3.AssemblyInfoInputs.cache
+D:\VS TISBI\DAL3\obj\Debug\netstandard2.0\DAL3.AssemblyInfo.cs
+D:\VS TISBI\DAL3\obj\Debug\netstandard2.0\DAL3.csproj.CoreCompileInputs.cache
+D:\VS TISBI\DAL3\obj\Debug\netstandard2.0\DAL3.dll
+D:\VS TISBI\DAL3\obj\Debug\netstandard2.0\DAL3.pdb
